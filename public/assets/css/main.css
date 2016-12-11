@@ -1,0 +1,56 @@
+/*Global*/
+section {
+    border-top: 3px solid red;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+aside {
+    text-align: right;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-top: 20px;
+}
+
+/*articles*/
+.entete_article > p {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.footer_article {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+#nbre_comm {
+    font-style: italic;
+}
+
+/*Formulaires*/
+.erreur {
+    display: block;
+    color: red;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+.avertissement {
+    display: block;
+    color: orange;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+/*Liste des catégories*/
+#categories {
+    margin-top: 20px;
+    text-align: left;
+}
